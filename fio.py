@@ -1,3 +1,4 @@
+#Hello from Ihor!!!
 fio = 'Metlitskiy Victor Borisovich'
 length_fio = len(fio)
 print(f'Длина ФИО: {length_fio} символов.')
